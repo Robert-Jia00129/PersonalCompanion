@@ -1,4 +1,4 @@
 # PersonalCompanion
 
 
-Personalized assistant that has access to all personal documents, descriptions and logs. Then generates resume, statements, etc accordingly. 
+Personalized assistant that has access to all personal documents, descriptions and experiences. Then generates resumes, personal statements, etc for general scenarios or for specific question prompts. 
